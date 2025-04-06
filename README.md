@@ -2,7 +2,7 @@
 
 - Atualmente cursando ciência da computação na UNIFESP (Universidade Federal de São Paulo) 
 - Iniciação científica em manutenção preditiva na indústria 4.0 com técnicas de aprendizado de máquina
-- Interesse em data science e inteligência artifical
+- Interesse em data science, inteligência artifical e visão computacional
 - Blog sobre estudos, projetos e outros: https://guipereira2.github.io/
 
 <h3 align="left">Languages and Tools:</h3>
