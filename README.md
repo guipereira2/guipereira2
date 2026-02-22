@@ -9,4 +9,3 @@ Technical Stack:
 - Libraries: scikit-learn, Pandas, TypeORM
 - Database: PostgreSQL, AWS RDS
 - DevOps: Docker, Terraform, Azure DevOps
-- https://guipereira2.github.io/
