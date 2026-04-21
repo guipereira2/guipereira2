@@ -2,7 +2,7 @@
 
 Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo (UNIFESP) e cursando ciência da computação na mesma instituição. Atuando como desenvolvedor de software na Embraer. 
 
-# Technical Stack
+Technical Stack:
  
 - **Languages:** Golang, Python, TypeScript, C#, SQL
 - **Frameworks & Libraries:** React, NestJS, Flask, Streamlit, TypeORM
