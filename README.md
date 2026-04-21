@@ -9,5 +9,5 @@ Technical Stack:
 - **Data & ML:** Airflow, Pandas, scikit-learn
 - **Databases:** PostgreSQL
 - **AWS:** S3, RDS, EKS, Bedrock
-- **DevOps & CI/CD:** Docker, Kubernetes, Terraform, Azure DevOps
+- **DevOps** Docker, Kubernetes, Terraform, Azure DevOps
  
