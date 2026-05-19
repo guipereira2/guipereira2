@@ -5,7 +5,7 @@ Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo (UNIFE
 Technical Stack
  
 - **Languages:** Golang, Python, TypeScript, C#, SQL
-- **Frameworks:** React, NestJS, Flask, Streamlit, TypeORM
+- **Frameworks:** NestJS, Flask, TypeORM
 - **Data/ML:** Airflow, Pandas, scikit-learn
 - **Database:** PostgreSQL
 - **AWS:** S3, RDS, EKS, Bedrock
