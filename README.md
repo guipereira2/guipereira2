@@ -4,4 +4,4 @@ Desenvolvedor Backend focado em engenharia de plataforma e sistemas distribuído
 
 Ciência da computação @UNIFESP | Desenvolvedor de software @Embraer.
 
- <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" width="150"/>
+ <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" width="50"/>
