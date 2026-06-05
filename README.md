@@ -1,4 +1,4 @@
-## Olá! ☕
+## Olá! 
 
 Desenvolvedor Backend focado em engenharia de plataforma e sistemas distribuídos. 
 
