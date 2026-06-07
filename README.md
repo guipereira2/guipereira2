@@ -1,6 +1,6 @@
 ## Olá!   
 
-Desenvolvedor Backend focado em engenharia de plataforma e sistemas distribuídos. 
+Desenvolvedor Backend focado em engenharia de plataforma, sistemas distribuídos e engenharia de dados. 
 
 Ciência da computação @UNIFESP | Desenvolvedor de software @Embraer.
 
