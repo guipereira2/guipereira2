@@ -1,7 +1,5 @@
 ## Olá!   
 
-Desenvolvedor Backend focado em engenharia de plataforma e sistemas distribuídos. 
-
 Ciência da computação @UNIFESP | Desenvolvedor de software @Embraer.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/> &nbsp; <img
