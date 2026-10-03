@@ -1,6 +1,6 @@
 ## Olá!   
 
-AI Engineer @BTG Pactual | Ciência da computação @UNIFESP.
+AI/ML Engineer @BTG Pactual | Ciência da computação @UNIFESP.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/> &nbsp;
